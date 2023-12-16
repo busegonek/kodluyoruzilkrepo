@@ -6,3 +6,13 @@ Kodluyoruz Eğitimi kapsamında açtığım ilk repo. İçerisinde bir adet READ
 ```bash
 git clone https://github.com/busegonek/kodluyoruzilkrepo.git
 ```
+
+## Usage
+
+Projeyi cloneladıktan sonra Visual Studio Code programında açınız.
+
+Linux için:
+```linux
+cd kodluyoruzilkrepo
+code .
+```
